@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/smart_support_desk',
+  base: '/Smart_Support_Desk/',
   lang: 'es-ES',
   title: 'Smart AI Support Desk',
   description: 'Documentación técnica profesional del sistema de soporte impulsado por inteligencia artificial',
